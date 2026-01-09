@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'fabrands400';
+  src: url('fabrands400.eot');
+  src: url('fabrands400.eot') format('embedded-opentype'),
+    url('fabrands400.woff2') format('woff2'),
+    url('fabrands400.woff') format('woff'),
+    url('fabrands400.ttf') format('truetype'),
+    url('fabrands400.svg#fabrands400') format('svg');
+}
+
+@font-face {
+  font-family: 'faregular400';
+  src: url('faregular400.eot');
+  src: url('faregular400.eot') format('embedded-opentype'),
+    url('faregular400.woff2') format('woff2'),
+    url('faregular400.woff') format('woff'),
+    url('faregular400.ttf') format('truetype'),
+    url('faregular400.svg#faregular400') format('svg');
+}
+
+@font-face {
+  font-family: 'fasolid900';
+  src: url('fasolid900.eot');
+  src: url('fasolid900.eot') format('embedded-opentype'),
+    url('fasolid900.woff2') format('woff2'),
+    url('fasolid900.woff') format('woff'),
+    url('fasolid900.ttf') format('truetype'),
+    url('fasolid900.svg#fasolid900') format('svg');
+}
+
+@font-face {
+  font-family: 'fav4compatibility';
+  src: url('fav4compatibility.eot');
+  src: url('fav4compatibility.eot') format('embedded-opentype'),
+    url('fav4compatibility.woff2') format('woff2'),
+    url('fav4compatibility.woff') format('woff'),
+    url('fav4compatibility.ttf') format('truetype'),
+    url('fav4compatibility.svg#fav4compatibility') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6BrandsRegular400';
+  src: url('FontAwesome6BrandsRegular400.eot');
+  src: url('FontAwesome6BrandsRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6BrandsRegular400.woff2') format('woff2'),
+       url('FontAwesome6BrandsRegular400.woff') format('woff'),
+       url('FontAwesome6BrandsRegular400.ttf') format('truetype'),
+       url('FontAwesome6BrandsRegular400.svg#FontAwesome6BrandsRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeRegular400';
+  src: url('FontAwesome6FreeRegular400.eot');
+  src: url('FontAwesome6FreeRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeRegular400.woff2') format('woff2'),
+       url('FontAwesome6FreeRegular400.woff') format('woff'),
+       url('FontAwesome6FreeRegular400.ttf') format('truetype'),
+       url('FontAwesome6FreeRegular400.svg#FontAwesome6FreeRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeSolid900';
+  src: url('FontAwesome6FreeSolid900.eot');
+  src: url('FontAwesome6FreeSolid900.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeSolid900.woff2') format('woff2'),
+       url('FontAwesome6FreeSolid900.woff') format('woff'),
+       url('FontAwesome6FreeSolid900.ttf') format('truetype'),
+       url('FontAwesome6FreeSolid900.svg#FontAwesome6FreeSolid900') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratRegular';
+  src: url('MontserratRegular.eot');
+  src: url('MontserratRegular.eot') format('embedded-opentype'),
+       url('MontserratRegular.woff2') format('woff2'),
+       url('MontserratRegular.woff') format('woff'),
+       url('MontserratRegular.ttf') format('truetype'),
+       url('MontserratRegular.svg#MontserratRegular') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratBold';
+  src: url('MontserratBold.eot');
+  src: url('MontserratBold.eot') format('embedded-opentype'),
+       url('MontserratBold.woff2') format('woff2'),
+       url('MontserratBold.woff') format('woff'),
+       url('MontserratBold.ttf') format('truetype'),
+       url('MontserratBold.svg#MontserratBold') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratLight';
+  src: url('MontserratLight.eot');
+  src: url('MontserratLight.eot') format('embedded-opentype'),
+       url('MontserratLight.woff2') format('woff2'),
+       url('MontserratLight.woff') format('woff'),
+       url('MontserratLight.ttf') format('truetype'),
+       url('MontserratLight.svg#MontserratLight') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratMedium';
+  src: url('MontserratMedium.eot');
+  src: url('MontserratMedium.eot') format('embedded-opentype'),
+       url('MontserratMedium.woff2') format('woff2'),
+       url('MontserratMedium.woff') format('woff'),
+       url('MontserratMedium.ttf') format('truetype'),
+       url('MontserratMedium.svg#MontserratMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratSemiBold';
+  src: url('MontserratSemiBold.eot');
+  src: url('MontserratSemiBold.eot') format('embedded-opentype'),
+       url('MontserratSemiBold.woff2') format('woff2'),
+       url('MontserratSemiBold.woff') format('woff'),
+       url('MontserratSemiBold.ttf') format('truetype'),
+       url('MontserratSemiBold.svg#MontserratSemiBold') format('svg');
+}
+
+@font-face {
+  font-family: 'AssistantRegular';
+  src: url('AssistantRegular.eot');
+  src: url('AssistantRegular.eot') format('embedded-opentype'),
+       url('AssistantRegular.woff2') format('woff2'),
+       url('AssistantRegular.woff') format('woff'),
+       url('AssistantRegular.ttf') format('truetype'),
+       url('AssistantRegular.svg#AssistantRegular') format('svg');
+}
